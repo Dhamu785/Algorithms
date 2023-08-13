@@ -6,7 +6,7 @@ This repo contains all algorithms I'm learning and practising.
 - Boolean
 - Float
 ## Types of data structures
-Builtin | User defined 1 | USer defined 2 
+Built-in | User defined 1 | USer defined 2 
 :---:|:---:|:-----:
 List | Stack | Queue
 Tuple | Queue | -
