@@ -17,17 +17,7 @@ Dictionary | Stack
 - LIFO - Last in First Out
 - push and pop
 - Used in undo and redo operations
-
-```python
-a = []
-a.append(10)
-a.append(20)
-a.append(30)
-
-# User pop to access last entered value
-b = a.pop()
-print(b)
-```
+- [Refer](https://github.com/Dhamu785/Data-Structures-and-Algorithms/blob/main/02%20Stack/01_stack.py) the python script on GitHub.
 
 ## Queue
 - FIFO - First in First Out
@@ -36,3 +26,7 @@ print(b)
 - Used in linear operations
 	- Uploading images
 	- Printing documents
+- [Refer](https://github.com/Dhamu785/Data-Structures-and-Algorithms/blob/main/03%20Queue/01_que.py) the python script on GitHub.
+### Priority Queue
+- Highest value low priority or Highest value high priority.
+- First sort the list then proceed.
