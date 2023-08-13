@@ -11,4 +11,17 @@ Builtin | User defined 1 | USer defined 2
 List | Linked list | Queue
 Tuple | Tree | 
 Set | Graph | 
-Dictionary | Stack | 
+Dictionary | Stack 
+
+## Queue
+LIFO - Last in First Out
+```python
+a = []
+a.append(10)
+a.append(20)
+a.append(30)
+
+# User pop to access last entered value
+b = a.pop()
+print(b)
+```
