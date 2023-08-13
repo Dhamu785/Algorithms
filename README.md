@@ -12,7 +12,7 @@ List | Stack | Queue
 Tuple | Queue | -
 Set | Linked List | -
 Dictionary | Tree | - 
-
+<a href="#dd">link</a>
 ## Stack
 - LIFO - Last in First Out
 - push and pop
@@ -30,3 +30,5 @@ Dictionary | Tree | -
 ### Priority Queue
 - Highest value low priority or Highest value high priority.
 - First sort the list then proceed.
+
+<h1 id="dd">Dhamu</h1>
