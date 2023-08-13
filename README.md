@@ -8,10 +8,10 @@ This repo contains all algorithms I'm learning and practising.
 ## Types of data structures
 Builtin | User defined 1 | USer defined 2 
 :---:|:---:|:-----:
-List | Linked list | Queue
-Tuple | Tree | 
-Set | Graph | 
-Dictionary | Stack 
+List | Stack | Queue
+Tuple | Queue | -
+Set | Linked List | -
+Dictionary | Tree | - 
 
 ## Stack
 - LIFO - Last in First Out
