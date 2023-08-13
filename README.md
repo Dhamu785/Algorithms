@@ -14,7 +14,10 @@ Set | Graph |
 Dictionary | Stack 
 
 ## Stack
-LIFO - Last in First Out
+- LIFO - Last in First Out
+- push and pop
+- Used in undo and redo operations
+
 ```python
 a = []
 a.append(10)
@@ -25,3 +28,11 @@ a.append(30)
 b = a.pop()
 print(b)
 ```
+
+## Queue
+- FIFO - First in First Out
+- Adding elements is called enqueue.
+- Removing elements is called dequeue.
+- Used in linear operations
+	- Uploading images
+	- Printing documents
