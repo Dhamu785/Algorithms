@@ -13,7 +13,7 @@ Tuple | Tree |
 Set | Graph | 
 Dictionary | Stack 
 
-## Queue
+## Stack
 LIFO - Last in First Out
 ```python
 a = []
