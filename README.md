@@ -1,17 +1,11 @@
 This repo contains all algorithms I'm learning and practising.
-# Data structure
-## Basic data types in python
-- Integer
-- String
-- Boolean
-- Float
-## Types of data structures
-Built-in | User defined 1 | USer defined 2 
-:---:|:---:|:-----:
-List | Stack | Queue
-Tuple | Queue | -
-Set | Linked List | -
-Dictionary | Tree | - 
+# Data structur
+Data Types | Built-in | User defined 1 | USer defined 2 
+:----:|:---:|:---:|:-----:
+Integer | List | Stack | Queue
+String | Tuple | Queue | -
+Boolean | Set | Linked List | -
+Float | Dictionary | Tree | - 
 
 ## Stack
 - LIFO - Last in First Out
